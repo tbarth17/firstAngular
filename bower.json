@@ -1,0 +1,20 @@
+{
+  "name": "first-angular",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "*",
+    "angular-resource": "*",
+    "angular-cookies": "*",
+    "angular-sanitize": "*",
+    "angular-route": "*",
+    "angular-animate": "*",
+    "jquery": "*",
+    "modernizr": "*",
+    "bootstrap-sass-official": "~3.3.1"
+  },
+  "devDependencies": {
+    "angular-mocks": "*",
+    "angular-scenario": "*"
+  },
+  "overrides": {}
+}
